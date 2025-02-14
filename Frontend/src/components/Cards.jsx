@@ -13,7 +13,7 @@ export function Card() {
       <div className="p-4">
         <h5 className="text-xl font-semibold text-gray-800 mb-2">UI/UX Review Check</h5>
         <p className="text-gray-600">
-          The place is close to Barceloneta Beach and bus stop just 2 min by
+          The place is close to Barceloneta xyz Beach and bus stop just 2 min by
           walk and near to "Naviglio" where you can enjoy the main night life in
           Barcelona.
         </p>
