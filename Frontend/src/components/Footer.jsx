@@ -58,7 +58,7 @@ function Footer() {
           © 2025 ThriveU. All Rights Reserved.
         </div>
       </footer>
-    </div>
+    </div> 
   );
 }
 
